@@ -18,4 +18,8 @@ The core strength of this implementation is its efficiency:
 
 ## 📁 Files in this Repository
 * `Solution.cs`: The optimized C# implementation.
+
 * [cite_start]`LeetCode-2928Math.pdf`: Detailed handwritten mathematical derivation[cite: 1, 2].
+
+* ⚠️ Note: The same mathematical approach applies to LeetCode 2929.
+For larger values of n/limit, use `long` types to avoid integer overflow.
